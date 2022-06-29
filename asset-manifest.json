@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kasyap1234.github.io/csb-ro12kw/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kasyap1234.github.io/csb-ro12kw/static/js/main.82eaf55a.chunk.js",
+    "main.js.map": "https://kasyap1234.github.io/csb-ro12kw/static/js/main.82eaf55a.chunk.js.map",
+    "runtime-main.js": "https://kasyap1234.github.io/csb-ro12kw/static/js/runtime-main.8dc37c4b.js",
+    "runtime-main.js.map": "https://kasyap1234.github.io/csb-ro12kw/static/js/runtime-main.8dc37c4b.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://kasyap1234.github.io/csb-ro12kw/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://kasyap1234.github.io/csb-ro12kw/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://kasyap1234.github.io/csb-ro12kw/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kasyap1234.github.io/csb-ro12kw/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://kasyap1234.github.io/csb-ro12kw/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc37c4b.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.82eaf55a.chunk.js"
+  ]
+}
